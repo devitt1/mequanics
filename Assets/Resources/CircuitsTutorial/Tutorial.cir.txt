@@ -1,0 +1,39 @@
+
+color 1 1 0 
+piece 0 tube x 29 1 0 15
+piece 0 tube z 4 30 0 11
+piece 0 cap x 	 31 0 10
+piece 0 tube z 9 35 0 11
+piece 0 tube x 34 1 0 20
+piece 0 tube z 4 0 0 16
+
+color 0 1 1
+piece 0 tube x 14 -14 0 25
+piece 0 tube x 29 1 0 25
+piece 0 tube z  4 0 0 26
+piece 0 tube x 29 1 0 30
+piece 0 cap  z 30 0 26
+
+color 0 0 1
+piece 1 tube z 4 2 -3 8
+piece 1 tube x 4 3 -3 12
+piece 1 tube z 4 7 -3 13
+piece 1 tube x 4 8 -3 17
+piece 1 tube y 4 12 -2 17
+piece 1 tube z 4 12 2 13
+piece 1 tube y 4 12 -2 12
+piece 1 tube x 4 13 -3 12
+piece 1 tube z 14 17 -3 13
+piece 1 tube y 4 17 -2 27
+piece 1 tube x 4 18 2 27
+piece 1 tube z 14 22 2 13
+piece 1 tube y 4 22 -2 12
+piece 1 tube x 4 23 -3 12
+piece 1 tube z 4 27 -3 8
+
+piece 1 tube x 24 3 -3 7
+
+end
+
+nb pieces
+align type orientation length x y z

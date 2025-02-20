@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  - 114: {fileID: 11400002}
+  m_Layer: 0
+  m_Name: PrefabHub
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdf6be61faa2d17479db1b903c489053, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tube: {fileID: 100008, guid: 58d1dbeac0bbf6f4c9f78c136252f637, type: 2}
+  cube: {fileID: 100008, guid: 05631783ff010c14ba8d6b574056a84a, type: 2}
+  injector: {fileID: 100000, guid: b949c06f5db919f4ca060360609e2f29, type: 2}
+  cap: {fileID: 100000, guid: 181110b7b110f0f4eac5b4f2734eb25e, type: 2}
+  arrow: {fileID: 100004, guid: 06f83d8bb9f85cd46b8678460a7d3f27, type: 2}
+  cursorFlat: {fileID: 100002, guid: d205fe259532a4f4c92bbb4a41f92b13, type: 2}
+  cursorPlastic: {fileID: 100000, guid: 7e121f4eab3dcd045955008ad6778a9d, type: 2}
+  cubeGhost: {fileID: 100002, guid: 0afe38fa24c20d9408bca96ffec9242d, type: 2}
+  injectorGhost: {fileID: 100004, guid: 092e0a25387bbfb429b98062defdcd97, type: 2}
+  dialog2D: {fileID: 100000, guid: 66f66add6bf7a344ea9713eac3607fd2, type: 2}
+  dialog3D: {fileID: 100012, guid: 3a61faa3ec49cbb48b872e15e6451fb1, type: 2}
+  boundingBox: {fileID: 100000, guid: ab4129de6267ce444a45e2b4d4a49529, type: 2}
+  activityIndicator: {fileID: 100000, guid: 3a051b63739de4343ac7c310245e0967, type: 2}
+  mask: {fileID: 100000, guid: ff100fda0c08b104baccbb86f6616d21, type: 2}
+  activityIndicator3D: {fileID: 100000, guid: 36a8fd814e9762447b24c4352fef6898, type: 2}
+--- !u!114 &11400002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659c2123ca02dec4abf6e534387ae468, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

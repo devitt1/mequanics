@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 26b6912e2caf8452380d27a5ec8d6342
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: awesome!
+    100002: good!
+    100004: great!
+    100006: //RootNode
+    100008: Nice!
+    100010: text anim
+    100012: Well Done!
+    400000: awesome!
+    400002: good!
+    400004: great!
+    400006: //RootNode
+    400008: Nice!
+    400010: text anim
+    400012: Well Done!
+    2300000: awesome!
+    2300002: good!
+    2300004: great!
+    2300006: Nice!
+    2300008: Well Done!
+    3300000: awesome!
+    3300002: good!
+    3300004: great!
+    3300006: Nice!
+    3300008: Well Done!
+    4300000: Nice!
+    4300002: great!
+    4300004: awesome!
+    4300006: Well Done!
+    4300008: good!
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

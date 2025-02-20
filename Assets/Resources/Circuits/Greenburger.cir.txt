@@ -1,0 +1,372 @@
+
+
+color 0.8 0 0
+tags ()
+piece 0 tube x 4 6 0 0
+piece 0 tube x 4 6 5 0
+piece 0 tube x 4 11 0 0
+piece 0 tube x 4 11 5 0
+tags (1)
+piece 0 tube y 4 15 1 0
+tags (1)
+piece 0 tube x 4 16 0 0
+piece 0 tube x 4 16 5 0
+
+color 0.4 0.1846154 0
+tags (2)
+piece 1 tube x 4 13 2 -3
+piece 1 tube z 4 12 2 -2
+piece 1 tube z 4 17 2 -2
+piece 1 tube y 4 17 3 2
+piece 1 tube z 4 17 7 3
+piece 1 tube z 4 12 2 3
+piece 1 tube y 4 12 3 7
+piece 1 tube x 4 13 7 7
+
+color 0.8 0 0
+tags (1)
+piece 0 tube x 4 21 0 0
+piece 0 tube x 4 21 5 0
+tags (1,3)
+piece 0 tube y 4 25 1 0
+tags (3)
+piece 0 tube x 4 26 0 0
+piece 0 tube x 4 26 5 0
+
+color 0.4 0.3692308 0
+tags (4)
+piece 1 tube x 4 23 2 -3
+piece 1 tube z 4 22 2 -2
+piece 1 tube z 4 27 2 -2
+piece 1 tube y 4 27 3 2
+piece 1 tube z 9 27 7 3
+piece 1 tube y 4 22 3 2
+piece 1 tube z 4 22 7 3
+piece 1 tube y 4 22 3 7
+piece 1 tube z 4 22 2 8
+piece 1 tube y 4 22 3 12
+piece 1 tube x 4 23 7 12
+
+color 0.8 0 0
+tags (3)
+piece 0 tube x 4 31 0 0
+piece 0 tube x 4 31 5 0
+tags (3,5)
+piece 0 tube y 4 35 1 0
+tags (5)
+piece 0 tube x 4 36 0 0
+piece 0 tube x 4 36 5 0
+
+color 0.2461538 0.4 0
+tags (6)
+piece 1 tube x 4 33 2 -3
+piece 1 tube z 4 32 2 -2
+piece 1 tube z 4 37 2 -2
+piece 1 tube y 4 37 3 2
+piece 1 tube z 14 37 7 3
+piece 1 tube y 4 32 3 2
+piece 1 tube z 4 32 7 3
+piece 1 tube z 4 32 7 8
+piece 1 tube y 4 32 3 12
+piece 1 tube z 4 32 2 13
+piece 1 tube y 4 32 3 17
+piece 1 tube x 4 33 7 17
+
+color 0.8 0 0
+tags (5)
+piece 0 tube x 4 41 0 0
+piece 0 tube x 4 41 5 0
+tags (5,7)
+piece 0 tube y 4 45 1 0
+tags (7)
+piece 0 tube x 4 46 0 0
+piece 0 tube x 4 46 5 0
+
+color 0.06153844 0.4 0
+tags (8)
+piece 1 tube x 4 43 2 -3
+piece 1 tube z 4 42 2 -2
+piece 1 tube z 4 47 2 -2
+piece 1 tube y 4 47 3 2
+piece 1 tube z 19 47 7 3
+piece 1 tube y 4 42 3 2
+piece 1 tube z 4 42 7 3
+piece 1 tube z 4 42 7 8
+piece 1 tube z 4 42 7 13
+piece 1 tube y 4 42 3 17
+piece 1 tube z 4 42 2 18
+piece 1 tube y 4 42 3 22
+piece 1 tube x 4 43 7 22
+
+color 0.8 0 0
+tags (7)
+piece 0 tube x 4 51 0 0
+piece 0 tube x 4 51 5 0
+tags (7,9)
+piece 0 tube y 4 55 1 0
+tags (9)
+piece 0 tube x 4 56 0 0
+piece 0 tube x 4 56 5 0
+
+color 0 0.4 0.123077
+tags (10)
+piece 1 tube x 4 53 2 -3
+piece 1 tube z 4 52 2 -2
+piece 1 tube z 4 57 2 -2
+piece 1 tube y 4 57 3 2
+piece 1 tube z 24 57 7 3
+piece 1 tube y 4 52 3 2
+piece 1 tube z 4 52 7 3
+piece 1 tube z 4 52 7 8
+piece 1 tube z 4 52 7 13
+piece 1 tube z 4 52 7 18
+piece 1 tube y 4 52 3 22
+piece 1 tube z 4 52 2 23
+piece 1 tube y 4 52 3 27
+piece 1 tube x 4 53 7 27
+
+color 0.8 0 0
+tags (9)
+piece 0 tube x 4 61 0 0
+piece 0 tube x 4 61 5 0
+tags (9,11)
+piece 0 tube y 4 65 1 0
+tags (11)
+piece 0 tube x 4 66 0 0
+piece 0 tube x 4 66 5 0
+
+color 0 0.4 0.3076924
+tags (12)
+piece 1 tube x 4 63 2 -3
+piece 1 tube z 4 62 2 -2
+piece 1 tube z 4 67 2 -2
+piece 1 tube y 4 67 3 2
+piece 1 tube z 29 67 7 3
+piece 1 tube y 4 62 3 2
+piece 1 tube z 4 62 7 3
+piece 1 tube z 4 62 7 8
+piece 1 tube z 4 62 7 13
+piece 1 tube z 4 62 7 18
+piece 1 tube z 4 62 7 23
+piece 1 tube y 4 62 3 27
+piece 1 tube z 4 62 2 28
+piece 1 tube y 4 62 3 32
+piece 1 tube x 4 63 7 32
+
+color 0.8 0 0
+tags (11)
+piece 0 tube x 4 71 0 0
+piece 0 tube x 4 71 5 0
+piece 0 cap y 75 1 0
+tags ()
+
+color 0 0.6153845 0.8
+tags ()
+tags (13)
+piece 0 tube y 4 5 1 5
+piece 0 tube x 4 6 0 5
+piece 0 tube x 4 6 5 5
+piece 0 tube x 4 11 0 5
+piece 0 tube x 4 11 5 5
+piece 0 tube x 4 16 0 5
+piece 0 tube x 4 16 5 5
+piece 0 tube x 4 21 0 5
+piece 0 tube x 4 21 5 5
+piece 0 tube x 4 26 0 5
+piece 0 tube x 4 26 5 5
+piece 0 tube x 4 31 0 5
+piece 0 tube x 4 31 5 5
+piece 0 tube x 4 36 0 5
+piece 0 tube x 4 36 5 5
+piece 0 tube x 4 41 0 5
+piece 0 tube x 4 41 5 5
+piece 0 tube x 4 46 0 5
+piece 0 tube x 4 46 5 5
+piece 0 tube x 4 51 0 5
+piece 0 tube x 4 51 5 5
+piece 0 tube x 4 56 0 5
+piece 0 tube x 4 56 5 5
+piece 0 tube x 4 61 0 5
+piece 0 tube x 4 61 5 5
+piece 0 tube x 4 66 0 5
+piece 0 tube x 4 66 5 5
+piece 0 tube x 4 71 0 5
+piece 0 tube x 4 71 5 5
+piece 0 cap y 75 1 5
+tags ()
+
+color 0 0.2461538 0.8
+tags ()
+tags (14)
+piece 0 tube y 4 5 1 10
+piece 0 tube x 4 6 0 10
+piece 0 tube x 4 6 5 10
+piece 0 tube x 4 11 0 10
+piece 0 tube x 4 11 5 10
+piece 0 tube x 4 16 0 10
+piece 0 tube x 4 16 5 10
+piece 0 tube x 4 21 0 10
+piece 0 tube x 4 21 5 10
+piece 0 tube x 4 26 0 10
+piece 0 tube x 4 26 5 10
+piece 0 tube x 4 31 0 10
+piece 0 tube x 4 31 5 10
+piece 0 tube x 4 36 0 10
+piece 0 tube x 4 36 5 10
+piece 0 tube x 4 41 0 10
+piece 0 tube x 4 41 5 10
+piece 0 tube x 4 46 0 10
+piece 0 tube x 4 46 5 10
+piece 0 tube x 4 51 0 10
+piece 0 tube x 4 51 5 10
+piece 0 tube x 4 56 0 10
+piece 0 tube x 4 56 5 10
+piece 0 tube x 4 61 0 10
+piece 0 tube x 4 61 5 10
+piece 0 tube x 4 66 0 10
+piece 0 tube x 4 66 5 10
+piece 0 tube x 4 71 0 10
+piece 0 tube x 4 71 5 10
+piece 0 cap y 75 1 10
+tags ()
+
+color 0.123077 0 0.8
+tags ()
+tags (15)
+piece 0 tube y 4 5 1 15
+piece 0 tube x 4 6 0 15
+piece 0 tube x 4 6 5 15
+piece 0 tube x 4 11 0 15
+piece 0 tube x 4 11 5 15
+piece 0 tube x 4 16 0 15
+piece 0 tube x 4 16 5 15
+piece 0 tube x 4 21 0 15
+piece 0 tube x 4 21 5 15
+piece 0 tube x 4 26 0 15
+piece 0 tube x 4 26 5 15
+piece 0 tube x 4 31 0 15
+piece 0 tube x 4 31 5 15
+piece 0 tube x 4 36 0 15
+piece 0 tube x 4 36 5 15
+piece 0 tube x 4 41 0 15
+piece 0 tube x 4 41 5 15
+piece 0 tube x 4 46 0 15
+piece 0 tube x 4 46 5 15
+piece 0 tube x 4 51 0 15
+piece 0 tube x 4 51 5 15
+piece 0 tube x 4 56 0 15
+piece 0 tube x 4 56 5 15
+piece 0 tube x 4 61 0 15
+piece 0 tube x 4 61 5 15
+piece 0 tube x 4 66 0 15
+piece 0 tube x 4 66 5 15
+piece 0 tube x 4 71 0 15
+piece 0 tube x 4 71 5 15
+piece 0 cap y 75 1 15
+tags ()
+
+color 0.492308 0 0.8
+tags ()
+tags (16)
+piece 0 tube y 4 5 1 20
+piece 0 tube x 4 6 0 20
+piece 0 tube x 4 6 5 20
+piece 0 tube x 4 11 0 20
+piece 0 tube x 4 11 5 20
+piece 0 tube x 4 16 0 20
+piece 0 tube x 4 16 5 20
+piece 0 tube x 4 21 0 20
+piece 0 tube x 4 21 5 20
+piece 0 tube x 4 26 0 20
+piece 0 tube x 4 26 5 20
+piece 0 tube x 4 31 0 20
+piece 0 tube x 4 31 5 20
+piece 0 tube x 4 36 0 20
+piece 0 tube x 4 36 5 20
+piece 0 tube x 4 41 0 20
+piece 0 tube x 4 41 5 20
+piece 0 tube x 4 46 0 20
+piece 0 tube x 4 46 5 20
+piece 0 tube x 4 51 0 20
+piece 0 tube x 4 51 5 20
+piece 0 tube x 4 56 0 20
+piece 0 tube x 4 56 5 20
+piece 0 tube x 4 61 0 20
+piece 0 tube x 4 61 5 20
+piece 0 tube x 4 66 0 20
+piece 0 tube x 4 66 5 20
+piece 0 tube x 4 71 0 20
+piece 0 tube x 4 71 5 20
+piece 0 cap y 75 1 20
+tags ()
+
+color 0.8 0 0.7384615
+tags ()
+tags (17)
+piece 0 tube y 4 5 1 25
+piece 0 tube x 4 6 0 25
+piece 0 tube x 4 6 5 25
+piece 0 tube x 4 11 0 25
+piece 0 tube x 4 11 5 25
+piece 0 tube x 4 16 0 25
+piece 0 tube x 4 16 5 25
+piece 0 tube x 4 21 0 25
+piece 0 tube x 4 21 5 25
+piece 0 tube x 4 26 0 25
+piece 0 tube x 4 26 5 25
+piece 0 tube x 4 31 0 25
+piece 0 tube x 4 31 5 25
+piece 0 tube x 4 36 0 25
+piece 0 tube x 4 36 5 25
+piece 0 tube x 4 41 0 25
+piece 0 tube x 4 41 5 25
+piece 0 tube x 4 46 0 25
+piece 0 tube x 4 46 5 25
+piece 0 tube x 4 51 0 25
+piece 0 tube x 4 51 5 25
+piece 0 tube x 4 56 0 25
+piece 0 tube x 4 56 5 25
+piece 0 tube x 4 61 0 25
+piece 0 tube x 4 61 5 25
+piece 0 tube x 4 66 0 25
+piece 0 tube x 4 66 5 25
+piece 0 tube x 4 71 0 25
+piece 0 tube x 4 71 5 25
+piece 0 cap y 75 1 25
+tags ()
+
+color 0.8 0 0.3692306
+tags ()
+tags (18)
+piece 0 tube y 4 5 1 30
+piece 0 tube x 4 6 0 30
+piece 0 tube x 4 6 5 30
+piece 0 tube x 4 11 0 30
+piece 0 tube x 4 11 5 30
+piece 0 tube x 4 16 0 30
+piece 0 tube x 4 16 5 30
+piece 0 tube x 4 21 0 30
+piece 0 tube x 4 21 5 30
+piece 0 tube x 4 26 0 30
+piece 0 tube x 4 26 5 30
+piece 0 tube x 4 31 0 30
+piece 0 tube x 4 31 5 30
+piece 0 tube x 4 36 0 30
+piece 0 tube x 4 36 5 30
+piece 0 tube x 4 41 0 30
+piece 0 tube x 4 41 5 30
+piece 0 tube x 4 46 0 30
+piece 0 tube x 4 46 5 30
+piece 0 tube x 4 51 0 30
+piece 0 tube x 4 51 5 30
+piece 0 tube x 4 56 0 30
+piece 0 tube x 4 56 5 30
+piece 0 tube x 4 61 0 30
+piece 0 tube x 4 61 5 30
+piece 0 tube x 4 66 0 30
+piece 0 tube x 4 66 5 30
+piece 0 tube x 4 71 0 30
+piece 0 tube x 4 71 5 30
+piece 0 cap y 75 1 30
+tags ()
+end

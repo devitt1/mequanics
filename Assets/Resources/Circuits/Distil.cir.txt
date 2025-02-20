@@ -1,0 +1,62 @@
+color 1 0 0
+piece 0 injector y 5 1 -0
+piece 0 tube z 24 5 0 -24
+piece 0 tube z 24 5 5 -24
+piece 0 tube y 4 5 1 -25
+
+color 1 0.25 0
+piece 0 injector y 10 1 -0
+piece 0 tube z 24 10 0 -24
+piece 0 tube z 24 10 5 -24
+piece 0 tube y 4 10 1 -25
+
+color 1 0.5 0
+piece 0 injector y 15 1 -0
+piece 0 tube z 14 15 0 -14
+piece 0 tube z 14 15 5 -14
+piece 0 tube y 4 15 1 -15
+
+color 1 1 0
+piece 0 tube y 4 15 1 -20
+piece 0 tube z 4 15 0 -24
+piece 0 tube z 4 15 5 -24
+piece 0 cap y 15 1 -25
+
+color 1 0.75 0
+piece 0 injector y 20 1 -0
+piece 0 tube z 24 20 0 -24
+piece 0 tube z 24 20 5 -24
+piece 0 tube y 4 20 1 -25
+
+color 0 0.5 1
+piece 1 injector y 2 3 -3
+piece 1 tube x 14 3 2 -3
+piece 1 tube x 14 3 7 -3
+piece 1 tube y 4 17 3 -3
+
+color 0 0.75 1
+piece 1 injector y 7 3 -8
+piece 1 tube x 14 8 2 -8
+piece 1 tube x 14 8 7 -8
+piece 1 tube y 4 22 3 -8
+
+color 0 1 1
+piece 1 injector y 2 3 -13
+piece 1 tube x 14 3 2 -13
+piece 1 tube x 4 3 7 -13
+piece 1 tube z 4 7 7 -17
+piece 1 tube z 4 17 2 -17
+piece 1 tube y 4 7 3 -18
+piece 1 tube x 4 8 2 -18
+piece 1 tube y 4 12 3 -18
+piece 1 tube x 9 13 7 -18
+piece 1 tube x 4 18 2 -18
+piece 1 tube y 4 22 3 -18
+
+color 0 0.25 1
+piece 1 injector y 2 3 -23
+piece 1 tube x 19 3 2 -23
+piece 1 tube x 19 3 7 -23
+piece 1 tube y 4 22 3 -23
+
+end

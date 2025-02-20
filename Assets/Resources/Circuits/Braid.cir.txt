@@ -1,0 +1,25 @@
+color 0.8 0.8 0
+tags()
+piece 0 cap y 5 1 -1
+piece 0 tube x 30 6 0 -1
+piece 0 tube x 30 6 5 -1
+piece 0 tube z 23 36 0 -24
+piece 0 tube z 23 36 5 -24
+piece 0 tube x 30 6 0 -25
+piece 0 tube x 30 6 5 -25
+piece 0 tube z 23 5 0 -49
+piece 0 tube z 23 5 5 -49
+piece 0 tube x 30 6 0 -50
+piece 0 tube x 30 6 5 -50
+piece 0 cap y 36 1 -50
+tags ()
+
+color 0.2 0.4 0
+tags (2)
+piece 1 tube z 60 17 7 -54
+piece 1 tube z 60 12 2 -54
+piece 1 tube y 4 12 3 7
+piece 1 tube x 4 13 7 7
+piece 1 tube y 4 12 3 -55
+piece 1 tube x 4 13 7 -55
+end

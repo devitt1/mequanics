@@ -1,0 +1,10 @@
+
+
+color 0.8 0 0
+tags ()
+piece 0 cap y 5 1 0
+piece 0 tube x 120 6 0 0
+piece 0 tube x 120 6 5 0
+piece 0 cap y 126 1 0
+tags ()
+end

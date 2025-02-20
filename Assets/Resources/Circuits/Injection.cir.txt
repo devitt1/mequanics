@@ -1,0 +1,64 @@
+
+
+color 0.8 0 0
+tags ()
+piece 0 cap y 5 1 0
+piece 0 tube x 63 6 0 0
+piece 0 tube x 63 6 5 0
+piece 0 cap y 69 1 0
+
+color 0.32 0.4 0
+tags (2)
+piece 1 tube y 4 12 3 -3
+piece 1 tube z 20 12 2 -2
+piece 1 tube z 20 12 7 -2
+piece 1 injector y 12 3 18
+
+color 0.6 0.4 0
+tags (3)
+piece 1 tube y 4 17 3 -3
+piece 1 tube z 20 17 2 -2
+piece 1 tube z 20 17 7 -2
+piece 1 injector y 17 3 18
+
+color 0 0.4 0
+tags (4)
+piece 1 tube y 4 27 3 -3
+piece 1 tube z 20 27 2 -2
+piece 1 tube z 20 27 7 -2
+piece 1 injector y 27 3 18
+
+color 0 0 0
+tags(5)
+piece 1 tube y 4 37 3 -3
+piece 1 tube z 20 37 2 -2
+piece 1 tube z 20 37 7 -2
+tags(12)
+piece 1 injector y 37 3 18
+
+color 1 0.4 0
+tags(6)
+piece 1 tube y 4 47 3 -3
+piece 1 tube z 20 47 2 -2
+piece 1 tube z 20 47 7 -2
+tags(11)
+piece 1 injector y 47 3 18
+
+color 0 1 0
+tags(7)
+piece 1 tube y 4 57 3 -3
+piece 1 tube z 20 57 2 -2
+piece 1 tube z 20 57 7 -2
+tags(10)
+piece 1 injector y 57 3 18
+
+color 0.22 0.4 0
+tags(8)
+piece 1 tube y 4 66 3 -3
+piece 1 tube z 20 66 2 -2
+piece 1 tube z 20 66 7 -2
+tags(9)
+piece 1 injector y 66 3 18
+
+
+end

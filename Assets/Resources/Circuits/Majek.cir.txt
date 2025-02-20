@@ -1,0 +1,1482 @@
+
+
+color 0.8 0 0
+tags ()
+piece 0 tube x 4 6 0 0
+piece 0 tube x 4 6 5 0
+piece 0 tube x 4 11 0 0
+piece 0 tube x 4 11 5 0
+piece 0 tube x 4 16 0 0
+piece 0 tube x 4 16 5 0
+piece 0 tube x 4 21 0 0
+piece 0 tube x 4 21 5 0
+piece 0 tube x 4 26 0 0
+piece 0 tube x 4 26 5 0
+piece 0 tube x 4 31 0 0
+piece 0 tube x 4 31 5 0
+tags (1)
+piece 0 tube y 4 35 1 0
+tags (1)
+piece 0 tube x 4 36 0 0
+piece 0 tube x 4 36 5 0
+
+color 0.4 0.08275862 0
+tags (2)
+piece 1 tube x 4 33 2 -3
+piece 1 tube z 4 32 2 -2
+piece 1 tube z 4 37 2 -2
+piece 1 tube y 4 37 3 2
+piece 1 tube z 89 37 7 3
+piece 1 tube y 4 32 3 2
+piece 1 tube z 4 32 7 3
+piece 1 tube z 4 32 7 8
+piece 1 tube z 4 32 7 13
+piece 1 tube z 4 32 7 18
+piece 1 tube z 4 32 7 23
+piece 1 tube z 4 32 7 28
+piece 1 tube z 4 32 7 33
+piece 1 tube z 4 32 7 38
+piece 1 tube z 4 32 7 43
+piece 1 tube z 4 32 7 48
+piece 1 tube y 4 32 3 52
+piece 1 tube z 4 32 2 53
+piece 1 tube z 4 32 2 58
+piece 1 tube z 4 32 2 63
+piece 1 tube z 4 32 2 68
+piece 1 tube z 4 32 2 73
+piece 1 tube y 4 32 3 77
+piece 1 tube z 4 32 7 78
+piece 1 tube y 4 32 3 82
+piece 1 tube z 4 32 2 83
+piece 1 tube z 4 32 2 88
+piece 1 tube y 4 32 3 92
+piece 1 tube x 4 33 7 92
+
+color 0.8 0 0
+tags (1)
+piece 0 tube x 4 41 0 0
+piece 0 tube x 4 41 5 0
+piece 0 tube x 4 46 0 0
+piece 0 tube x 4 46 5 0
+piece 0 tube x 4 51 0 0
+piece 0 tube x 4 51 5 0
+piece 0 tube x 4 56 0 0
+piece 0 tube x 4 56 5 0
+piece 0 tube x 4 61 0 0
+piece 0 tube x 4 61 5 0
+piece 0 tube x 4 66 0 0
+piece 0 tube x 4 66 5 0
+piece 0 tube x 4 71 0 0
+piece 0 tube x 4 71 5 0
+piece 0 tube x 4 76 0 0
+piece 0 tube x 4 76 5 0
+piece 0 tube x 4 81 0 0
+piece 0 tube x 4 81 5 0
+piece 0 tube x 4 86 0 0
+piece 0 tube x 4 86 5 0
+piece 0 tube x 4 91 0 0
+piece 0 tube x 4 91 5 0
+piece 0 tube x 4 96 0 0
+piece 0 tube x 4 96 5 0
+piece 0 tube x 4 101 0 0
+piece 0 tube x 4 101 5 0
+piece 0 tube x 4 106 0 0
+piece 0 tube x 4 106 5 0
+piece 0 tube x 4 111 0 0
+piece 0 tube x 4 111 5 0
+piece 0 tube x 4 116 0 0
+piece 0 tube x 4 116 5 0
+piece 0 tube x 4 121 0 0
+piece 0 tube x 4 121 5 0
+piece 0 injector y 125 1 0
+tags ()
+piece 0 tube x 4 126 0 0
+piece 0 tube x 4 126 5 0
+
+color 0.8 0.3310345 0
+tags ()
+piece 0 tube x 4 6 0 5
+piece 0 tube x 4 6 5 5
+piece 0 tube x 4 11 0 5
+piece 0 tube x 4 11 5 5
+piece 0 tube x 4 16 0 5
+piece 0 tube x 4 16 5 5
+piece 0 tube x 4 21 0 5
+piece 0 tube x 4 21 5 5
+piece 0 tube x 4 26 0 5
+piece 0 tube x 4 26 5 5
+piece 0 tube x 4 31 0 5
+piece 0 tube x 4 31 5 5
+piece 0 tube x 4 36 0 5
+piece 0 tube x 4 36 5 5
+piece 0 tube x 4 41 0 5
+piece 0 tube x 4 41 5 5
+tags (3)
+piece 0 tube y 4 45 1 5
+tags (3)
+piece 0 tube x 4 46 0 5
+piece 0 tube x 4 46 5 5
+
+color 0.4 0.2482759 0
+tags (4)
+piece 1 tube x 4 43 2 2
+piece 1 tube z 4 42 2 3
+piece 1 tube z 4 47 2 3
+piece 1 tube y 4 47 3 7
+piece 1 tube z 84 47 7 8
+piece 1 tube y 4 42 3 7
+piece 1 tube z 4 42 7 8
+piece 1 tube z 4 42 7 13
+piece 1 tube z 4 42 7 18
+piece 1 tube z 4 42 7 23
+piece 1 tube z 4 42 7 28
+piece 1 tube z 4 42 7 33
+piece 1 tube z 4 42 7 38
+piece 1 tube y 4 42 3 42
+piece 1 tube z 4 42 2 43
+piece 1 tube y 4 42 3 47
+piece 1 tube z 4 42 7 48
+piece 1 tube z 4 42 7 53
+piece 1 tube y 4 42 3 57
+piece 1 tube z 4 42 2 58
+piece 1 tube z 4 42 2 63
+piece 1 tube y 4 42 3 67
+piece 1 tube z 4 42 7 68
+piece 1 tube z 4 42 7 73
+piece 1 tube y 4 42 3 77
+piece 1 tube z 4 42 2 78
+piece 1 tube z 4 42 2 83
+piece 1 tube z 4 42 2 88
+piece 1 tube y 4 42 3 92
+piece 1 tube x 4 43 7 92
+
+color 0.8 0.3310345 0
+tags (3)
+piece 0 tube x 4 51 0 5
+piece 0 tube x 4 51 5 5
+piece 0 tube x 4 56 0 5
+piece 0 tube x 4 56 5 5
+piece 0 tube x 4 61 0 5
+piece 0 tube x 4 61 5 5
+piece 0 tube x 4 66 0 5
+piece 0 tube x 4 66 5 5
+piece 0 tube x 4 71 0 5
+piece 0 tube x 4 71 5 5
+piece 0 tube x 4 76 0 5
+piece 0 tube x 4 76 5 5
+piece 0 tube x 4 81 0 5
+piece 0 tube x 4 81 5 5
+piece 0 tube x 4 86 0 5
+piece 0 tube x 4 86 5 5
+piece 0 tube x 4 91 0 5
+piece 0 tube x 4 91 5 5
+piece 0 tube x 4 96 0 5
+piece 0 tube x 4 96 5 5
+piece 0 tube x 4 101 0 5
+piece 0 tube x 4 101 5 5
+piece 0 tube x 4 106 0 5
+piece 0 tube x 4 106 5 5
+piece 0 tube x 4 111 0 5
+piece 0 tube x 4 111 5 5
+piece 0 tube x 4 116 0 5
+piece 0 tube x 4 116 5 5
+piece 0 tube x 4 121 0 5
+piece 0 tube x 4 121 5 5
+piece 0 injector y 125 1 5
+tags ()
+piece 0 tube x 4 126 0 5
+piece 0 tube x 4 126 5 5
+
+color 0.8 0.662069 0
+tags ()
+piece 0 tube x 4 6 0 10
+piece 0 tube x 4 6 5 10
+piece 0 tube x 4 11 0 10
+piece 0 tube x 4 11 5 10
+piece 0 tube x 4 16 0 10
+piece 0 tube x 4 16 5 10
+piece 0 tube x 4 21 0 10
+piece 0 tube x 4 21 5 10
+piece 0 tube x 4 26 0 10
+piece 0 tube x 4 26 5 10
+piece 0 tube x 4 31 0 10
+piece 0 tube x 4 31 5 10
+piece 0 tube x 4 36 0 10
+piece 0 tube x 4 36 5 10
+piece 0 tube x 4 41 0 10
+piece 0 tube x 4 41 5 10
+piece 0 tube x 4 46 0 10
+piece 0 tube x 4 46 5 10
+piece 0 tube x 4 51 0 10
+piece 0 tube x 4 51 5 10
+tags (5)
+piece 0 tube y 4 55 1 10
+tags (5)
+piece 0 tube x 4 56 0 10
+piece 0 tube x 4 56 5 10
+
+color 0.3862069 0.4 0
+tags (6)
+piece 1 tube x 4 53 2 7
+piece 1 tube z 4 52 2 8
+piece 1 tube z 4 57 2 8
+piece 1 tube y 4 57 3 12
+piece 1 tube z 79 57 7 13
+piece 1 tube y 4 52 3 12
+piece 1 tube z 4 52 7 13
+piece 1 tube z 4 52 7 18
+piece 1 tube z 4 52 7 23
+piece 1 tube z 4 52 7 28
+piece 1 tube z 4 52 7 33
+piece 1 tube z 4 52 7 38
+piece 1 tube y 4 52 3 42
+piece 1 tube z 4 52 2 43
+piece 1 tube z 4 52 2 48
+piece 1 tube z 4 52 2 53
+piece 1 tube z 4 52 2 58
+piece 1 tube y 4 52 3 62
+piece 1 tube z 4 52 7 63
+piece 1 tube z 4 52 7 68
+piece 1 tube y 4 52 3 72
+piece 1 tube z 4 52 2 73
+piece 1 tube z 4 52 2 78
+piece 1 tube z 4 52 2 83
+piece 1 tube z 4 52 2 88
+piece 1 tube y 4 52 3 92
+piece 1 tube x 4 53 7 92
+
+color 0.8 0.662069 0
+tags (5)
+piece 0 tube x 4 61 0 10
+piece 0 tube x 4 61 5 10
+piece 0 tube x 4 66 0 10
+piece 0 tube x 4 66 5 10
+piece 0 tube x 4 71 0 10
+piece 0 tube x 4 71 5 10
+piece 0 tube x 4 76 0 10
+piece 0 tube x 4 76 5 10
+piece 0 tube x 4 81 0 10
+piece 0 tube x 4 81 5 10
+piece 0 tube x 4 86 0 10
+piece 0 tube x 4 86 5 10
+piece 0 tube x 4 91 0 10
+piece 0 tube x 4 91 5 10
+piece 0 tube x 4 96 0 10
+piece 0 tube x 4 96 5 10
+piece 0 tube x 4 101 0 10
+piece 0 tube x 4 101 5 10
+piece 0 tube x 4 106 0 10
+piece 0 tube x 4 106 5 10
+piece 0 tube x 4 111 0 10
+piece 0 tube x 4 111 5 10
+piece 0 tube x 4 116 0 10
+piece 0 tube x 4 116 5 10
+piece 0 tube x 4 121 0 10
+piece 0 tube x 4 121 5 10
+piece 0 injector y 125 1 10
+tags ()
+piece 0 tube x 4 126 0 10
+piece 0 tube x 4 126 5 10
+
+color 0.6068966 0.8 0
+tags ()
+piece 0 tube x 4 6 0 15
+piece 0 tube x 4 6 5 15
+piece 0 tube x 4 11 0 15
+piece 0 tube x 4 11 5 15
+piece 0 tube x 4 16 0 15
+piece 0 tube x 4 16 5 15
+piece 0 tube x 4 21 0 15
+piece 0 tube x 4 21 5 15
+piece 0 tube x 4 26 0 15
+piece 0 tube x 4 26 5 15
+piece 0 tube x 4 31 0 15
+piece 0 tube x 4 31 5 15
+piece 0 tube x 4 36 0 15
+piece 0 tube x 4 36 5 15
+piece 0 tube x 4 41 0 15
+piece 0 tube x 4 41 5 15
+piece 0 tube x 4 46 0 15
+piece 0 tube x 4 46 5 15
+piece 0 tube x 4 51 0 15
+piece 0 tube x 4 51 5 15
+piece 0 tube x 4 56 0 15
+piece 0 tube x 4 56 5 15
+piece 0 tube x 4 61 0 15
+piece 0 tube x 4 61 5 15
+tags (7)
+piece 0 tube y 4 65 1 15
+tags (7)
+piece 0 tube x 4 66 0 15
+piece 0 tube x 4 66 5 15
+
+color 0.2206897 0.4 0
+tags (8)
+piece 1 tube x 4 63 2 12
+piece 1 tube z 4 62 2 13
+piece 1 tube z 4 67 2 13
+piece 1 tube y 4 67 3 17
+piece 1 tube z 69 67 7 18
+piece 1 tube y 4 62 3 17
+piece 1 tube z 4 62 7 18
+piece 1 tube z 4 62 7 23
+piece 1 tube z 4 62 7 28
+piece 1 tube z 4 62 7 33
+piece 1 tube z 4 62 7 38
+piece 1 tube y 4 62 3 42
+piece 1 tube z 4 62 2 43
+piece 1 tube y 4 62 3 47
+piece 1 tube z 4 62 7 48
+piece 1 tube z 4 62 7 53
+piece 1 tube z 4 62 7 58
+piece 1 tube y 4 62 3 62
+piece 1 tube z 4 62 2 63
+piece 1 tube z 4 62 2 68
+piece 1 tube z 4 62 2 73
+piece 1 tube y 4 62 3 77
+piece 1 tube z 4 62 7 78
+piece 1 tube y 4 62 3 82
+piece 1 tube z 4 62 2 83
+piece 1 tube y 4 62 3 87
+piece 1 tube x 4 63 7 87
+
+color 0.6068966 0.8 0
+tags (7)
+piece 0 tube x 4 71 0 15
+piece 0 tube x 4 71 5 15
+piece 0 tube x 4 76 0 15
+piece 0 tube x 4 76 5 15
+piece 0 tube x 4 81 0 15
+piece 0 tube x 4 81 5 15
+piece 0 tube x 4 86 0 15
+piece 0 tube x 4 86 5 15
+piece 0 tube x 4 91 0 15
+piece 0 tube x 4 91 5 15
+piece 0 tube x 4 96 0 15
+piece 0 tube x 4 96 5 15
+piece 0 tube x 4 101 0 15
+piece 0 tube x 4 101 5 15
+piece 0 tube x 4 106 0 15
+piece 0 tube x 4 106 5 15
+piece 0 tube x 4 111 0 15
+piece 0 tube x 4 111 5 15
+piece 0 tube x 4 116 0 15
+piece 0 tube x 4 116 5 15
+piece 0 tube x 4 121 0 15
+piece 0 tube x 4 121 5 15
+piece 0 injector y 125 1 15
+tags ()
+piece 0 tube x 4 126 0 15
+piece 0 tube x 4 126 5 15
+
+color 0.2758621 0.8 0
+tags ()
+piece 0 tube x 4 6 0 20
+piece 0 tube x 4 6 5 20
+piece 0 tube x 4 11 0 20
+piece 0 tube x 4 11 5 20
+piece 0 tube x 4 16 0 20
+piece 0 tube x 4 16 5 20
+piece 0 tube x 4 21 0 20
+piece 0 tube x 4 21 5 20
+piece 0 tube x 4 26 0 20
+piece 0 tube x 4 26 5 20
+piece 0 tube x 4 31 0 20
+piece 0 tube x 4 31 5 20
+piece 0 tube x 4 36 0 20
+piece 0 tube x 4 36 5 20
+piece 0 tube x 4 41 0 20
+piece 0 tube x 4 41 5 20
+piece 0 tube x 4 46 0 20
+piece 0 tube x 4 46 5 20
+piece 0 tube x 4 51 0 20
+piece 0 tube x 4 51 5 20
+piece 0 tube x 4 56 0 20
+piece 0 tube x 4 56 5 20
+piece 0 tube x 4 61 0 20
+piece 0 tube x 4 61 5 20
+piece 0 tube x 4 66 0 20
+piece 0 tube x 4 66 5 20
+piece 0 tube x 4 71 0 20
+piece 0 tube x 4 71 5 20
+tags (9)
+piece 0 tube y 4 75 1 20
+tags (9)
+piece 0 tube x 4 76 0 20
+piece 0 tube x 4 76 5 20
+
+color 0.05517242 0.4 0
+tags (10)
+piece 1 tube x 4 73 2 17
+piece 1 tube z 4 72 2 18
+piece 1 tube z 4 77 2 18
+piece 1 tube y 4 77 3 22
+piece 1 tube z 64 77 7 23
+piece 1 tube y 4 72 3 22
+piece 1 tube z 4 72 7 23
+piece 1 tube z 4 72 7 28
+piece 1 tube z 4 72 7 33
+piece 1 tube z 4 72 7 38
+piece 1 tube z 4 72 7 43
+piece 1 tube y 4 72 3 47
+piece 1 tube z 4 72 2 48
+piece 1 tube y 4 72 3 52
+piece 1 tube z 4 72 7 53
+piece 1 tube z 4 72 7 58
+piece 1 tube y 4 72 3 62
+piece 1 tube z 4 72 2 63
+piece 1 tube z 4 72 2 68
+piece 1 tube z 4 72 2 73
+piece 1 tube z 4 72 2 78
+piece 1 tube z 4 72 2 83
+piece 1 tube y 4 72 3 87
+piece 1 tube x 4 73 7 87
+
+color 0.2758621 0.8 0
+tags (9)
+piece 0 tube x 4 81 0 20
+piece 0 tube x 4 81 5 20
+piece 0 tube x 4 86 0 20
+piece 0 tube x 4 86 5 20
+piece 0 tube x 4 91 0 20
+piece 0 tube x 4 91 5 20
+piece 0 tube x 4 96 0 20
+piece 0 tube x 4 96 5 20
+piece 0 tube x 4 101 0 20
+piece 0 tube x 4 101 5 20
+piece 0 tube x 4 106 0 20
+piece 0 tube x 4 106 5 20
+piece 0 tube x 4 111 0 20
+piece 0 tube x 4 111 5 20
+piece 0 tube x 4 116 0 20
+piece 0 tube x 4 116 5 20
+piece 0 tube x 4 121 0 20
+piece 0 tube x 4 121 5 20
+piece 0 injector y 125 1 20
+tags ()
+piece 0 tube x 4 126 0 20
+piece 0 tube x 4 126 5 20
+
+color 0 0.8 0.05517242
+tags ()
+piece 0 tube x 4 6 0 25
+piece 0 tube x 4 6 5 25
+piece 0 tube x 4 11 0 25
+piece 0 tube x 4 11 5 25
+piece 0 tube x 4 16 0 25
+piece 0 tube x 4 16 5 25
+piece 0 tube x 4 21 0 25
+piece 0 tube x 4 21 5 25
+piece 0 tube x 4 26 0 25
+piece 0 tube x 4 26 5 25
+piece 0 tube x 4 31 0 25
+piece 0 tube x 4 31 5 25
+piece 0 tube x 4 36 0 25
+piece 0 tube x 4 36 5 25
+piece 0 tube x 4 41 0 25
+piece 0 tube x 4 41 5 25
+piece 0 tube x 4 46 0 25
+piece 0 tube x 4 46 5 25
+piece 0 tube x 4 51 0 25
+piece 0 tube x 4 51 5 25
+piece 0 tube x 4 56 0 25
+piece 0 tube x 4 56 5 25
+piece 0 tube x 4 61 0 25
+piece 0 tube x 4 61 5 25
+piece 0 tube x 4 66 0 25
+piece 0 tube x 4 66 5 25
+piece 0 tube x 4 71 0 25
+piece 0 tube x 4 71 5 25
+piece 0 tube x 4 76 0 25
+piece 0 tube x 4 76 5 25
+piece 0 tube x 4 81 0 25
+piece 0 tube x 4 81 5 25
+tags (11)
+piece 0 tube y 4 85 1 25
+tags (11)
+piece 0 tube x 4 86 0 25
+piece 0 tube x 4 86 5 25
+
+color 0 0.4 0.1103448
+tags (12)
+piece 1 tube x 4 83 2 22
+piece 1 tube z 4 82 2 23
+piece 1 tube z 4 87 2 23
+piece 1 tube y 4 87 3 27
+piece 1 tube z 59 87 7 28
+piece 1 tube y 4 82 3 27
+piece 1 tube z 4 82 7 28
+piece 1 tube z 4 82 7 33
+piece 1 tube z 4 82 7 38
+piece 1 tube y 4 82 3 42
+piece 1 tube z 4 82 2 43
+piece 1 tube y 4 82 3 47
+piece 1 tube z 4 82 7 48
+piece 1 tube y 4 82 3 52
+piece 1 tube z 4 82 2 53
+piece 1 tube y 4 82 3 57
+piece 1 tube z 4 82 7 58
+piece 1 tube y 4 82 3 62
+piece 1 tube z 4 82 2 63
+piece 1 tube y 4 82 3 67
+piece 1 tube z 4 82 7 68
+piece 1 tube y 4 82 3 72
+piece 1 tube z 4 82 2 73
+piece 1 tube z 4 82 2 78
+piece 1 tube z 4 82 2 83
+piece 1 tube y 4 82 3 87
+piece 1 tube x 4 83 7 87
+
+color 0 0.8 0.05517242
+tags (11)
+piece 0 tube x 4 91 0 25
+piece 0 tube x 4 91 5 25
+piece 0 tube x 4 96 0 25
+piece 0 tube x 4 96 5 25
+piece 0 tube x 4 101 0 25
+piece 0 tube x 4 101 5 25
+piece 0 tube x 4 106 0 25
+piece 0 tube x 4 106 5 25
+piece 0 tube x 4 111 0 25
+piece 0 tube x 4 111 5 25
+piece 0 tube x 4 116 0 25
+piece 0 tube x 4 116 5 25
+piece 0 tube x 4 121 0 25
+piece 0 tube x 4 121 5 25
+piece 0 injector y 125 1 25
+tags ()
+piece 0 tube x 4 126 0 25
+piece 0 tube x 4 126 5 25
+
+color 0 0.8 0.3862069
+tags ()
+piece 0 tube x 4 6 0 30
+piece 0 tube x 4 6 5 30
+piece 0 tube x 4 11 0 30
+piece 0 tube x 4 11 5 30
+piece 0 tube x 4 16 0 30
+piece 0 tube x 4 16 5 30
+piece 0 tube x 4 21 0 30
+piece 0 tube x 4 21 5 30
+piece 0 tube x 4 26 0 30
+piece 0 tube x 4 26 5 30
+piece 0 tube x 4 31 0 30
+piece 0 tube x 4 31 5 30
+piece 0 tube x 4 36 0 30
+piece 0 tube x 4 36 5 30
+piece 0 tube x 4 41 0 30
+piece 0 tube x 4 41 5 30
+piece 0 tube x 4 46 0 30
+piece 0 tube x 4 46 5 30
+piece 0 tube x 4 51 0 30
+piece 0 tube x 4 51 5 30
+piece 0 tube x 4 56 0 30
+piece 0 tube x 4 56 5 30
+piece 0 tube x 4 61 0 30
+piece 0 tube x 4 61 5 30
+piece 0 tube x 4 66 0 30
+piece 0 tube x 4 66 5 30
+piece 0 tube x 4 71 0 30
+piece 0 tube x 4 71 5 30
+piece 0 tube x 4 76 0 30
+piece 0 tube x 4 76 5 30
+piece 0 tube x 4 81 0 30
+piece 0 tube x 4 81 5 30
+piece 0 tube x 4 86 0 30
+piece 0 tube x 4 86 5 30
+piece 0 tube x 4 91 0 30
+piece 0 tube x 4 91 5 30
+tags (13)
+piece 0 tube y 4 95 1 30
+tags (13)
+piece 0 tube x 4 96 0 30
+piece 0 tube x 4 96 5 30
+
+color 0 0.4 0.2758621
+tags (14)
+piece 1 tube x 4 93 2 27
+piece 1 tube z 4 92 2 28
+piece 1 tube z 4 97 2 28
+piece 1 tube y 4 97 3 32
+piece 1 tube z 59 97 7 33
+piece 1 tube y 4 92 3 32
+piece 1 tube z 4 92 7 33
+piece 1 tube z 4 92 7 38
+piece 1 tube z 4 92 7 43
+piece 1 tube z 4 92 7 48
+piece 1 tube y 4 92 3 52
+piece 1 tube z 4 92 2 53
+piece 1 tube y 4 92 3 57
+piece 1 tube z 4 92 7 58
+piece 1 tube z 4 92 7 63
+piece 1 tube y 4 92 3 67
+piece 1 tube z 4 92 2 68
+piece 1 tube y 4 92 3 72
+piece 1 tube z 4 92 7 73
+piece 1 tube z 4 92 7 78
+piece 1 tube y 4 92 3 82
+piece 1 tube z 4 92 2 83
+piece 1 tube z 4 92 2 88
+piece 1 tube y 4 92 3 92
+piece 1 tube x 4 93 7 92
+
+color 0 0.8 0.3862069
+tags (13)
+piece 0 tube x 4 101 0 30
+piece 0 tube x 4 101 5 30
+piece 0 tube x 4 106 0 30
+piece 0 tube x 4 106 5 30
+piece 0 tube x 4 111 0 30
+piece 0 tube x 4 111 5 30
+piece 0 tube x 4 116 0 30
+piece 0 tube x 4 116 5 30
+piece 0 tube x 4 121 0 30
+piece 0 tube x 4 121 5 30
+piece 0 injector y 125 1 30
+tags ()
+piece 0 tube x 4 126 0 30
+piece 0 tube x 4 126 5 30
+
+color 0 0.8 0.7172414
+tags ()
+piece 0 tube x 4 6 0 35
+piece 0 tube x 4 6 5 35
+piece 0 tube x 4 11 0 35
+piece 0 tube x 4 11 5 35
+piece 0 tube x 4 16 0 35
+piece 0 tube x 4 16 5 35
+piece 0 tube x 4 21 0 35
+piece 0 tube x 4 21 5 35
+piece 0 tube x 4 26 0 35
+piece 0 tube x 4 26 5 35
+piece 0 tube x 4 31 0 35
+piece 0 tube x 4 31 5 35
+piece 0 tube x 4 36 0 35
+piece 0 tube x 4 36 5 35
+piece 0 tube x 4 41 0 35
+piece 0 tube x 4 41 5 35
+piece 0 tube x 4 46 0 35
+piece 0 tube x 4 46 5 35
+piece 0 tube x 4 51 0 35
+piece 0 tube x 4 51 5 35
+piece 0 tube x 4 56 0 35
+piece 0 tube x 4 56 5 35
+piece 0 tube x 4 61 0 35
+piece 0 tube x 4 61 5 35
+piece 0 tube x 4 66 0 35
+piece 0 tube x 4 66 5 35
+piece 0 tube x 4 71 0 35
+piece 0 tube x 4 71 5 35
+piece 0 tube x 4 76 0 35
+piece 0 tube x 4 76 5 35
+piece 0 tube x 4 81 0 35
+piece 0 tube x 4 81 5 35
+piece 0 tube x 4 86 0 35
+piece 0 tube x 4 86 5 35
+piece 0 tube x 4 91 0 35
+piece 0 tube x 4 91 5 35
+piece 0 tube x 4 96 0 35
+piece 0 tube x 4 96 5 35
+piece 0 tube x 4 101 0 35
+piece 0 tube x 4 101 5 35
+tags (15)
+piece 0 tube y 4 105 1 35
+tags (15)
+piece 0 tube x 4 106 0 35
+piece 0 tube x 4 106 5 35
+
+color 0 0.3586207 0.4
+tags (16)
+piece 1 tube x 4 103 2 32
+piece 1 tube z 4 102 2 33
+piece 1 tube z 4 107 2 33
+piece 1 tube y 4 107 3 37
+piece 1 tube z 49 107 7 38
+piece 1 tube y 4 102 3 37
+piece 1 tube z 4 102 7 38
+piece 1 tube z 4 102 7 43
+piece 1 tube y 4 102 3 47
+piece 1 tube z 4 102 2 48
+piece 1 tube z 4 102 2 53
+piece 1 tube z 4 102 2 58
+piece 1 tube z 4 102 2 63
+piece 1 tube y 4 102 3 67
+piece 1 tube z 4 102 7 68
+piece 1 tube z 4 102 7 73
+piece 1 tube y 4 102 3 77
+piece 1 tube z 4 102 2 78
+piece 1 tube z 4 102 2 83
+piece 1 tube y 4 102 3 87
+piece 1 tube x 4 103 7 87
+
+color 0 0.8 0.7172414
+tags (15)
+piece 0 tube x 4 111 0 35
+piece 0 tube x 4 111 5 35
+piece 0 tube x 4 116 0 35
+piece 0 tube x 4 116 5 35
+piece 0 tube x 4 121 0 35
+piece 0 tube x 4 121 5 35
+piece 0 injector y 125 1 35
+tags ()
+piece 0 tube x 4 126 0 35
+piece 0 tube x 4 126 5 35
+
+color 0 0.5517243 0.8
+tags ()
+piece 0 tube x 4 6 0 40
+piece 0 tube x 4 6 5 40
+piece 0 tube x 4 11 0 40
+piece 0 tube x 4 11 5 40
+piece 0 tube x 4 16 0 40
+piece 0 tube x 4 16 5 40
+piece 0 tube x 4 21 0 40
+piece 0 tube x 4 21 5 40
+piece 0 tube x 4 26 0 40
+piece 0 tube x 4 26 5 40
+piece 0 tube x 4 31 0 40
+piece 0 tube x 4 31 5 40
+piece 0 tube x 4 36 0 40
+piece 0 tube x 4 36 5 40
+piece 0 tube x 4 41 0 40
+piece 0 tube x 4 41 5 40
+piece 0 tube x 4 46 0 40
+piece 0 tube x 4 46 5 40
+piece 0 tube x 4 51 0 40
+piece 0 tube x 4 51 5 40
+piece 0 tube x 4 56 0 40
+piece 0 tube x 4 56 5 40
+piece 0 tube x 4 61 0 40
+piece 0 tube x 4 61 5 40
+piece 0 tube x 4 66 0 40
+piece 0 tube x 4 66 5 40
+piece 0 tube x 4 71 0 40
+piece 0 tube x 4 71 5 40
+piece 0 tube x 4 76 0 40
+piece 0 tube x 4 76 5 40
+piece 0 tube x 4 81 0 40
+piece 0 tube x 4 81 5 40
+piece 0 tube x 4 86 0 40
+piece 0 tube x 4 86 5 40
+piece 0 tube x 4 91 0 40
+piece 0 tube x 4 91 5 40
+piece 0 tube x 4 96 0 40
+piece 0 tube x 4 96 5 40
+piece 0 tube x 4 101 0 40
+piece 0 tube x 4 101 5 40
+piece 0 tube x 4 106 0 40
+piece 0 tube x 4 106 5 40
+piece 0 tube x 4 111 0 40
+piece 0 tube x 4 111 5 40
+tags (17)
+piece 0 tube y 4 115 1 40
+tags (17)
+piece 0 tube x 4 116 0 40
+piece 0 tube x 4 116 5 40
+
+color 0 0.1931034 0.4
+tags (18)
+piece 1 tube x 4 113 2 37
+piece 1 tube z 4 112 2 38
+piece 1 tube z 4 117 2 38
+piece 1 tube y 4 117 3 42
+piece 1 tube z 49 117 7 43
+piece 1 tube y 4 112 3 42
+piece 1 tube z 4 112 7 43
+piece 1 tube z 4 112 7 48
+piece 1 tube y 4 112 3 52
+piece 1 tube z 4 112 2 53
+piece 1 tube y 4 112 3 57
+piece 1 tube z 4 112 7 58
+piece 1 tube z 4 112 7 63
+piece 1 tube z 4 112 7 68
+piece 1 tube y 4 112 3 72
+piece 1 tube z 4 112 2 73
+piece 1 tube y 4 112 3 77
+piece 1 tube z 4 112 7 78
+piece 1 tube y 4 112 3 82
+piece 1 tube z 4 112 2 83
+piece 1 tube z 4 112 2 88
+piece 1 tube y 4 112 3 92
+piece 1 tube x 4 113 7 92
+
+color 0 0.5517243 0.8
+tags (17)
+piece 0 tube x 4 121 0 40
+piece 0 tube x 4 121 5 40
+piece 0 injector y 125 1 40
+tags ()
+piece 0 tube x 4 126 0 40
+piece 0 tube x 4 126 5 40
+
+color 0 0.2206897 0.8
+tags ()
+tags (19)
+piece 0 tube y 4 5 1 45
+piece 0 tube x 4 6 0 45
+piece 0 tube x 4 6 5 45
+piece 0 tube x 4 11 0 45
+piece 0 tube x 4 11 5 45
+piece 0 tube x 4 16 0 45
+piece 0 tube x 4 16 5 45
+piece 0 tube x 4 21 0 45
+piece 0 tube x 4 21 5 45
+piece 0 tube x 4 26 0 45
+piece 0 tube x 4 26 5 45
+piece 0 tube x 4 31 0 45
+piece 0 tube x 4 31 5 45
+piece 0 tube x 4 36 0 45
+piece 0 tube x 4 36 5 45
+piece 0 tube x 4 41 0 45
+piece 0 tube x 4 41 5 45
+piece 0 tube x 4 46 0 45
+piece 0 tube x 4 46 5 45
+piece 0 tube x 4 51 0 45
+piece 0 tube x 4 51 5 45
+piece 0 tube x 4 56 0 45
+piece 0 tube x 4 56 5 45
+piece 0 tube x 4 61 0 45
+piece 0 tube x 4 61 5 45
+piece 0 tube x 4 66 0 45
+piece 0 tube x 4 66 5 45
+piece 0 tube x 4 71 0 45
+piece 0 tube x 4 71 5 45
+piece 0 tube x 4 76 0 45
+piece 0 tube x 4 76 5 45
+piece 0 tube x 4 81 0 45
+piece 0 tube x 4 81 5 45
+piece 0 tube x 4 86 0 45
+piece 0 tube x 4 86 5 45
+piece 0 tube x 4 91 0 45
+piece 0 tube x 4 91 5 45
+piece 0 tube x 4 96 0 45
+piece 0 tube x 4 96 5 45
+piece 0 tube x 4 101 0 45
+piece 0 tube x 4 101 5 45
+piece 0 tube x 4 106 0 45
+piece 0 tube x 4 106 5 45
+piece 0 tube x 4 111 0 45
+piece 0 tube x 4 111 5 45
+piece 0 tube x 4 116 0 45
+piece 0 tube x 4 116 5 45
+piece 0 tube x 4 121 0 45
+piece 0 tube x 4 121 5 45
+piece 0 injector y 125 1 45
+tags ()
+piece 0 tube x 4 126 0 45
+piece 0 tube x 4 126 5 45
+
+color 0 0.05517253 0.8
+tags ()
+tags (20)
+piece 0 tube y 4 5 1 50
+piece 0 tube x 4 6 0 50
+piece 0 tube x 4 6 5 50
+piece 0 tube x 4 11 0 50
+piece 0 tube x 4 11 5 50
+piece 0 tube x 4 16 0 50
+piece 0 tube x 4 16 5 50
+piece 0 tube x 4 21 0 50
+piece 0 tube x 4 21 5 50
+piece 0 tube x 4 26 0 50
+piece 0 tube x 4 26 5 50
+piece 0 tube x 4 31 0 50
+piece 0 tube x 4 31 5 50
+piece 0 tube x 4 36 0 50
+piece 0 tube x 4 36 5 50
+piece 0 tube x 4 41 0 50
+piece 0 tube x 4 41 5 50
+piece 0 tube x 4 46 0 50
+piece 0 tube x 4 46 5 50
+piece 0 tube x 4 51 0 50
+piece 0 tube x 4 51 5 50
+piece 0 tube x 4 56 0 50
+piece 0 tube x 4 56 5 50
+piece 0 tube x 4 61 0 50
+piece 0 tube x 4 61 5 50
+piece 0 tube x 4 66 0 50
+piece 0 tube x 4 66 5 50
+piece 0 tube x 4 71 0 50
+piece 0 tube x 4 71 5 50
+piece 0 tube x 4 76 0 50
+piece 0 tube x 4 76 5 50
+piece 0 tube x 4 81 0 50
+piece 0 tube x 4 81 5 50
+piece 0 tube x 4 86 0 50
+piece 0 tube x 4 86 5 50
+piece 0 tube x 4 91 0 50
+piece 0 tube x 4 91 5 50
+piece 0 tube x 4 96 0 50
+piece 0 tube x 4 96 5 50
+piece 0 tube x 4 101 0 50
+piece 0 tube x 4 101 5 50
+piece 0 tube x 4 106 0 50
+piece 0 tube x 4 106 5 50
+piece 0 tube x 4 111 0 50
+piece 0 tube x 4 111 5 50
+piece 0 tube x 4 116 0 50
+piece 0 tube x 4 116 5 50
+piece 0 tube x 4 121 0 50
+piece 0 tube x 4 121 5 50
+piece 0 injector y 125 1 50
+tags ()
+piece 0 tube x 4 126 0 50
+piece 0 tube x 4 126 5 50
+
+color 0.1103448 0 0.8
+tags ()
+tags (21)
+piece 0 tube y 4 5 1 55
+piece 0 tube x 4 6 0 55
+piece 0 tube x 4 6 5 55
+piece 0 tube x 4 11 0 55
+piece 0 tube x 4 11 5 55
+piece 0 tube x 4 16 0 55
+piece 0 tube x 4 16 5 55
+piece 0 tube x 4 21 0 55
+piece 0 tube x 4 21 5 55
+piece 0 tube x 4 26 0 55
+piece 0 tube x 4 26 5 55
+piece 0 tube x 4 31 0 55
+piece 0 tube x 4 31 5 55
+piece 0 tube x 4 36 0 55
+piece 0 tube x 4 36 5 55
+piece 0 tube x 4 41 0 55
+piece 0 tube x 4 41 5 55
+piece 0 tube x 4 46 0 55
+piece 0 tube x 4 46 5 55
+piece 0 tube x 4 51 0 55
+piece 0 tube x 4 51 5 55
+piece 0 tube x 4 56 0 55
+piece 0 tube x 4 56 5 55
+piece 0 tube x 4 61 0 55
+piece 0 tube x 4 61 5 55
+piece 0 tube x 4 66 0 55
+piece 0 tube x 4 66 5 55
+piece 0 tube x 4 71 0 55
+piece 0 tube x 4 71 5 55
+piece 0 tube x 4 76 0 55
+piece 0 tube x 4 76 5 55
+piece 0 tube x 4 81 0 55
+piece 0 tube x 4 81 5 55
+piece 0 tube x 4 86 0 55
+piece 0 tube x 4 86 5 55
+piece 0 tube x 4 91 0 55
+piece 0 tube x 4 91 5 55
+piece 0 tube x 4 96 0 55
+piece 0 tube x 4 96 5 55
+piece 0 tube x 4 101 0 55
+piece 0 tube x 4 101 5 55
+piece 0 tube x 4 106 0 55
+piece 0 tube x 4 106 5 55
+piece 0 tube x 4 111 0 55
+piece 0 tube x 4 111 5 55
+piece 0 tube x 4 116 0 55
+piece 0 tube x 4 116 5 55
+piece 0 tube x 4 121 0 55
+piece 0 tube x 4 121 5 55
+piece 0 injector y 125 1 55
+tags ()
+piece 0 tube x 4 126 0 55
+piece 0 tube x 4 126 5 55
+
+color 0.2758618 0 0.8
+tags ()
+tags (22)
+piece 0 tube y 4 5 1 60
+piece 0 tube x 4 6 0 60
+piece 0 tube x 4 6 5 60
+piece 0 tube x 4 11 0 60
+piece 0 tube x 4 11 5 60
+piece 0 tube x 4 16 0 60
+piece 0 tube x 4 16 5 60
+piece 0 tube x 4 21 0 60
+piece 0 tube x 4 21 5 60
+piece 0 tube x 4 26 0 60
+piece 0 tube x 4 26 5 60
+piece 0 tube x 4 31 0 60
+piece 0 tube x 4 31 5 60
+piece 0 tube x 4 36 0 60
+piece 0 tube x 4 36 5 60
+piece 0 tube x 4 41 0 60
+piece 0 tube x 4 41 5 60
+piece 0 tube x 4 46 0 60
+piece 0 tube x 4 46 5 60
+piece 0 tube x 4 51 0 60
+piece 0 tube x 4 51 5 60
+piece 0 tube x 4 56 0 60
+piece 0 tube x 4 56 5 60
+piece 0 tube x 4 61 0 60
+piece 0 tube x 4 61 5 60
+piece 0 tube x 4 66 0 60
+piece 0 tube x 4 66 5 60
+piece 0 tube x 4 71 0 60
+piece 0 tube x 4 71 5 60
+piece 0 tube x 4 76 0 60
+piece 0 tube x 4 76 5 60
+piece 0 tube x 4 81 0 60
+piece 0 tube x 4 81 5 60
+piece 0 tube x 4 86 0 60
+piece 0 tube x 4 86 5 60
+piece 0 tube x 4 91 0 60
+piece 0 tube x 4 91 5 60
+piece 0 tube x 4 96 0 60
+piece 0 tube x 4 96 5 60
+piece 0 tube x 4 101 0 60
+piece 0 tube x 4 101 5 60
+piece 0 tube x 4 106 0 60
+piece 0 tube x 4 106 5 60
+piece 0 tube x 4 111 0 60
+piece 0 tube x 4 111 5 60
+piece 0 tube x 4 116 0 60
+piece 0 tube x 4 116 5 60
+piece 0 tube x 4 121 0 60
+piece 0 tube x 4 121 5 60
+piece 0 injector y 125 1 60
+tags ()
+piece 0 tube x 4 126 0 60
+piece 0 tube x 4 126 5 60
+
+color 0.4413794 0 0.8
+tags ()
+tags (23)
+piece 0 tube y 4 5 1 65
+piece 0 tube x 4 6 0 65
+piece 0 tube x 4 6 5 65
+piece 0 tube x 4 11 0 65
+piece 0 tube x 4 11 5 65
+piece 0 tube x 4 16 0 65
+piece 0 tube x 4 16 5 65
+piece 0 tube x 4 21 0 65
+piece 0 tube x 4 21 5 65
+piece 0 tube x 4 26 0 65
+piece 0 tube x 4 26 5 65
+piece 0 tube x 4 31 0 65
+piece 0 tube x 4 31 5 65
+piece 0 tube x 4 36 0 65
+piece 0 tube x 4 36 5 65
+piece 0 tube x 4 41 0 65
+piece 0 tube x 4 41 5 65
+piece 0 tube x 4 46 0 65
+piece 0 tube x 4 46 5 65
+piece 0 tube x 4 51 0 65
+piece 0 tube x 4 51 5 65
+piece 0 tube x 4 56 0 65
+piece 0 tube x 4 56 5 65
+piece 0 tube x 4 61 0 65
+piece 0 tube x 4 61 5 65
+piece 0 tube x 4 66 0 65
+piece 0 tube x 4 66 5 65
+piece 0 tube x 4 71 0 65
+piece 0 tube x 4 71 5 65
+piece 0 tube x 4 76 0 65
+piece 0 tube x 4 76 5 65
+piece 0 tube x 4 81 0 65
+piece 0 tube x 4 81 5 65
+piece 0 tube x 4 86 0 65
+piece 0 tube x 4 86 5 65
+piece 0 tube x 4 91 0 65
+piece 0 tube x 4 91 5 65
+piece 0 tube x 4 96 0 65
+piece 0 tube x 4 96 5 65
+piece 0 tube x 4 101 0 65
+piece 0 tube x 4 101 5 65
+piece 0 tube x 4 106 0 65
+piece 0 tube x 4 106 5 65
+piece 0 tube x 4 111 0 65
+piece 0 tube x 4 111 5 65
+piece 0 tube x 4 116 0 65
+piece 0 tube x 4 116 5 65
+piece 0 tube x 4 121 0 65
+piece 0 tube x 4 121 5 65
+piece 0 injector y 125 1 65
+tags ()
+piece 0 tube x 4 126 0 65
+piece 0 tube x 4 126 5 65
+
+color 0.6068966 0 0.8
+tags ()
+tags (24)
+piece 0 tube y 4 5 1 70
+piece 0 tube x 4 6 0 70
+piece 0 tube x 4 6 5 70
+piece 0 tube x 4 11 0 70
+piece 0 tube x 4 11 5 70
+piece 0 tube x 4 16 0 70
+piece 0 tube x 4 16 5 70
+piece 0 tube x 4 21 0 70
+piece 0 tube x 4 21 5 70
+piece 0 tube x 4 26 0 70
+piece 0 tube x 4 26 5 70
+piece 0 tube x 4 31 0 70
+piece 0 tube x 4 31 5 70
+piece 0 tube x 4 36 0 70
+piece 0 tube x 4 36 5 70
+piece 0 tube x 4 41 0 70
+piece 0 tube x 4 41 5 70
+piece 0 tube x 4 46 0 70
+piece 0 tube x 4 46 5 70
+piece 0 tube x 4 51 0 70
+piece 0 tube x 4 51 5 70
+piece 0 tube x 4 56 0 70
+piece 0 tube x 4 56 5 70
+piece 0 tube x 4 61 0 70
+piece 0 tube x 4 61 5 70
+piece 0 tube x 4 66 0 70
+piece 0 tube x 4 66 5 70
+piece 0 tube x 4 71 0 70
+piece 0 tube x 4 71 5 70
+piece 0 tube x 4 76 0 70
+piece 0 tube x 4 76 5 70
+piece 0 tube x 4 81 0 70
+piece 0 tube x 4 81 5 70
+piece 0 tube x 4 86 0 70
+piece 0 tube x 4 86 5 70
+piece 0 tube x 4 91 0 70
+piece 0 tube x 4 91 5 70
+piece 0 tube x 4 96 0 70
+piece 0 tube x 4 96 5 70
+piece 0 tube x 4 101 0 70
+piece 0 tube x 4 101 5 70
+piece 0 tube x 4 106 0 70
+piece 0 tube x 4 106 5 70
+piece 0 tube x 4 111 0 70
+piece 0 tube x 4 111 5 70
+piece 0 tube x 4 116 0 70
+piece 0 tube x 4 116 5 70
+piece 0 tube x 4 121 0 70
+piece 0 tube x 4 121 5 70
+piece 0 injector y 125 1 70
+tags ()
+piece 0 tube x 4 126 0 70
+piece 0 tube x 4 126 5 70
+
+color 0.7724137 0 0.8
+tags ()
+tags (25)
+piece 0 tube y 4 5 1 75
+piece 0 tube x 4 6 0 75
+piece 0 tube x 4 6 5 75
+piece 0 tube x 4 11 0 75
+piece 0 tube x 4 11 5 75
+piece 0 tube x 4 16 0 75
+piece 0 tube x 4 16 5 75
+piece 0 tube x 4 21 0 75
+piece 0 tube x 4 21 5 75
+piece 0 tube x 4 26 0 75
+piece 0 tube x 4 26 5 75
+piece 0 tube x 4 31 0 75
+piece 0 tube x 4 31 5 75
+piece 0 tube x 4 36 0 75
+piece 0 tube x 4 36 5 75
+piece 0 tube x 4 41 0 75
+piece 0 tube x 4 41 5 75
+piece 0 tube x 4 46 0 75
+piece 0 tube x 4 46 5 75
+piece 0 tube x 4 51 0 75
+piece 0 tube x 4 51 5 75
+piece 0 tube x 4 56 0 75
+piece 0 tube x 4 56 5 75
+piece 0 tube x 4 61 0 75
+piece 0 tube x 4 61 5 75
+piece 0 tube x 4 66 0 75
+piece 0 tube x 4 66 5 75
+piece 0 tube x 4 71 0 75
+piece 0 tube x 4 71 5 75
+piece 0 tube x 4 76 0 75
+piece 0 tube x 4 76 5 75
+piece 0 tube x 4 81 0 75
+piece 0 tube x 4 81 5 75
+piece 0 tube x 4 86 0 75
+piece 0 tube x 4 86 5 75
+piece 0 tube x 4 91 0 75
+piece 0 tube x 4 91 5 75
+piece 0 tube x 4 96 0 75
+piece 0 tube x 4 96 5 75
+piece 0 tube x 4 101 0 75
+piece 0 tube x 4 101 5 75
+piece 0 tube x 4 106 0 75
+piece 0 tube x 4 106 5 75
+piece 0 tube x 4 111 0 75
+piece 0 tube x 4 111 5 75
+piece 0 tube x 4 116 0 75
+piece 0 tube x 4 116 5 75
+piece 0 tube x 4 121 0 75
+piece 0 tube x 4 121 5 75
+piece 0 injector y 125 1 75
+tags ()
+piece 0 tube x 4 126 0 75
+piece 0 tube x 4 126 5 75
+
+color 0.8 0 0.6620691
+tags ()
+tags (26)
+piece 0 tube y 4 5 1 80
+piece 0 tube x 4 6 0 80
+piece 0 tube x 4 6 5 80
+piece 0 tube x 4 11 0 80
+piece 0 tube x 4 11 5 80
+piece 0 tube x 4 16 0 80
+piece 0 tube x 4 16 5 80
+piece 0 tube x 4 21 0 80
+piece 0 tube x 4 21 5 80
+piece 0 tube x 4 26 0 80
+piece 0 tube x 4 26 5 80
+piece 0 tube x 4 31 0 80
+piece 0 tube x 4 31 5 80
+piece 0 tube x 4 36 0 80
+piece 0 tube x 4 36 5 80
+piece 0 tube x 4 41 0 80
+piece 0 tube x 4 41 5 80
+piece 0 tube x 4 46 0 80
+piece 0 tube x 4 46 5 80
+piece 0 tube x 4 51 0 80
+piece 0 tube x 4 51 5 80
+piece 0 tube x 4 56 0 80
+piece 0 tube x 4 56 5 80
+piece 0 tube x 4 61 0 80
+piece 0 tube x 4 61 5 80
+piece 0 tube x 4 66 0 80
+piece 0 tube x 4 66 5 80
+piece 0 tube x 4 71 0 80
+piece 0 tube x 4 71 5 80
+piece 0 tube x 4 76 0 80
+piece 0 tube x 4 76 5 80
+piece 0 tube x 4 81 0 80
+piece 0 tube x 4 81 5 80
+piece 0 tube x 4 86 0 80
+piece 0 tube x 4 86 5 80
+piece 0 tube x 4 91 0 80
+piece 0 tube x 4 91 5 80
+piece 0 tube x 4 96 0 80
+piece 0 tube x 4 96 5 80
+piece 0 tube x 4 101 0 80
+piece 0 tube x 4 101 5 80
+piece 0 tube x 4 106 0 80
+piece 0 tube x 4 106 5 80
+piece 0 tube x 4 111 0 80
+piece 0 tube x 4 111 5 80
+piece 0 tube x 4 116 0 80
+piece 0 tube x 4 116 5 80
+piece 0 tube x 4 121 0 80
+piece 0 tube x 4 121 5 80
+piece 0 injector y 125 1 80
+tags ()
+piece 0 tube x 4 126 0 80
+piece 0 tube x 4 126 5 80
+
+color 0.8 0 0.4965515
+tags ()
+tags (27)
+piece 0 tube y 4 5 1 85
+piece 0 tube x 4 6 0 85
+piece 0 tube x 4 6 5 85
+piece 0 tube x 4 11 0 85
+piece 0 tube x 4 11 5 85
+piece 0 tube x 4 16 0 85
+piece 0 tube x 4 16 5 85
+piece 0 tube x 4 21 0 85
+piece 0 tube x 4 21 5 85
+piece 0 tube x 4 26 0 85
+piece 0 tube x 4 26 5 85
+piece 0 tube x 4 31 0 85
+piece 0 tube x 4 31 5 85
+piece 0 tube x 4 36 0 85
+piece 0 tube x 4 36 5 85
+piece 0 tube x 4 41 0 85
+piece 0 tube x 4 41 5 85
+piece 0 tube x 4 46 0 85
+piece 0 tube x 4 46 5 85
+piece 0 tube x 4 51 0 85
+piece 0 tube x 4 51 5 85
+piece 0 tube x 4 56 0 85
+piece 0 tube x 4 56 5 85
+piece 0 tube x 4 61 0 85
+piece 0 tube x 4 61 5 85
+piece 0 tube x 4 66 0 85
+piece 0 tube x 4 66 5 85
+piece 0 tube x 4 71 0 85
+piece 0 tube x 4 71 5 85
+piece 0 tube x 4 76 0 85
+piece 0 tube x 4 76 5 85
+piece 0 tube x 4 81 0 85
+piece 0 tube x 4 81 5 85
+piece 0 tube x 4 86 0 85
+piece 0 tube x 4 86 5 85
+piece 0 tube x 4 91 0 85
+piece 0 tube x 4 91 5 85
+piece 0 tube x 4 96 0 85
+piece 0 tube x 4 96 5 85
+piece 0 tube x 4 101 0 85
+piece 0 tube x 4 101 5 85
+piece 0 tube x 4 106 0 85
+piece 0 tube x 4 106 5 85
+piece 0 tube x 4 111 0 85
+piece 0 tube x 4 111 5 85
+piece 0 tube x 4 116 0 85
+piece 0 tube x 4 116 5 85
+piece 0 tube x 4 121 0 85
+piece 0 tube x 4 121 5 85
+piece 0 injector y 125 1 85
+tags ()
+piece 0 tube x 4 126 0 85
+piece 0 tube x 4 126 5 85
+
+color 0.8 0 0.3310343
+tags ()
+tags (28)
+piece 0 tube y 4 5 1 90
+piece 0 tube x 4 6 0 90
+piece 0 tube x 4 6 5 90
+piece 0 tube x 4 11 0 90
+piece 0 tube x 4 11 5 90
+piece 0 tube x 4 16 0 90
+piece 0 tube x 4 16 5 90
+piece 0 tube x 4 21 0 90
+piece 0 tube x 4 21 5 90
+tags (28,29)
+piece 0 tube y 4 25 1 90
+tags (29)
+piece 0 tube x 4 26 0 90
+piece 0 tube x 4 26 5 90
+
+color 0.4 0 0.08275858
+tags (30)
+piece 1 tube x 4 23 2 92
+piece 1 tube z 4 22 2 88
+piece 1 tube z 4 27 2 88
+piece 1 tube y 4 27 3 87
+piece 1 tube z 44 27 7 43
+piece 1 tube y 4 22 3 87
+piece 1 tube z 4 22 7 83
+piece 1 tube y 4 22 3 82
+piece 1 tube z 4 22 2 78
+piece 1 tube z 4 22 2 73
+piece 1 tube z 4 22 2 68
+piece 1 tube z 4 22 2 63
+piece 1 tube y 4 22 3 62
+piece 1 tube z 4 22 7 58
+piece 1 tube z 4 22 7 53
+piece 1 tube z 4 22 7 48
+piece 1 tube y 4 22 3 47
+piece 1 tube z 4 22 2 43
+piece 1 tube y 4 22 3 42
+piece 1 tube x 4 23 7 42
+
+color 0.8 0 0.3310343
+tags (29)
+piece 0 tube x 4 31 0 90
+piece 0 tube x 4 31 5 90
+piece 0 tube x 4 36 0 90
+piece 0 tube x 4 36 5 90
+piece 0 tube x 4 41 0 90
+piece 0 tube x 4 41 5 90
+piece 0 tube x 4 46 0 90
+piece 0 tube x 4 46 5 90
+piece 0 tube x 4 51 0 90
+piece 0 tube x 4 51 5 90
+piece 0 tube x 4 56 0 90
+piece 0 tube x 4 56 5 90
+piece 0 tube x 4 61 0 90
+piece 0 tube x 4 61 5 90
+piece 0 tube x 4 66 0 90
+piece 0 tube x 4 66 5 90
+piece 0 tube x 4 71 0 90
+piece 0 tube x 4 71 5 90
+piece 0 tube x 4 76 0 90
+piece 0 tube x 4 76 5 90
+piece 0 tube x 4 81 0 90
+piece 0 tube x 4 81 5 90
+piece 0 tube x 4 86 0 90
+piece 0 tube x 4 86 5 90
+piece 0 tube x 4 91 0 90
+piece 0 tube x 4 91 5 90
+piece 0 tube x 4 96 0 90
+piece 0 tube x 4 96 5 90
+piece 0 tube x 4 101 0 90
+piece 0 tube x 4 101 5 90
+piece 0 tube x 4 106 0 90
+piece 0 tube x 4 106 5 90
+piece 0 tube x 4 111 0 90
+piece 0 tube x 4 111 5 90
+piece 0 tube x 4 116 0 90
+piece 0 tube x 4 116 5 90
+piece 0 tube x 4 121 0 90
+piece 0 tube x 4 121 5 90
+piece 0 injector y 125 1 90
+tags ()
+piece 0 tube x 4 126 0 90
+piece 0 tube x 4 126 5 90
+
+color 0.8 0 0
+tags ()
+piece 0 tube x 4 6 0 95
+piece 0 tube x 4 6 5 95
+piece 0 tube x 4 11 0 95
+piece 0 tube x 4 11 5 95
+tags (31)
+piece 0 tube y 4 15 1 95
+tags (31)
+piece 0 tube x 4 16 0 95
+piece 0 tube x 4 16 5 95
+
+color 0 0 0
+tags (32)
+piece 1 tube x 4 13 2 97
+piece 1 tube z 4 12 2 93
+piece 1 tube z 4 17 2 93
+piece 1 tube y 4 17 3 92
+piece 1 tube z 4 17 7 88
+piece 1 tube z 4 12 2 88
+piece 1 tube y 4 12 3 87
+piece 1 tube x 4 13 7 87
+
+color 0.8 0 0
+tags (31)
+piece 0 tube x 4 21 0 95
+piece 0 tube x 4 21 5 95
+piece 0 tube x 4 26 0 95
+piece 0 tube x 4 26 5 95
+piece 0 tube x 4 31 0 95
+piece 0 tube x 4 31 5 95
+piece 0 tube x 4 36 0 95
+piece 0 tube x 4 36 5 95
+piece 0 tube x 4 41 0 95
+piece 0 tube x 4 41 5 95
+piece 0 tube x 4 46 0 95
+piece 0 tube x 4 46 5 95
+piece 0 tube x 4 51 0 95
+piece 0 tube x 4 51 5 95
+piece 0 tube x 4 56 0 95
+piece 0 tube x 4 56 5 95
+piece 0 tube x 4 61 0 95
+piece 0 tube x 4 61 5 95
+piece 0 tube x 4 66 0 95
+piece 0 tube x 4 66 5 95
+piece 0 tube x 4 71 0 95
+piece 0 tube x 4 71 5 95
+piece 0 tube x 4 76 0 95
+piece 0 tube x 4 76 5 95
+piece 0 tube x 4 81 0 95
+piece 0 tube x 4 81 5 95
+piece 0 tube x 4 86 0 95
+piece 0 tube x 4 86 5 95
+piece 0 tube x 4 91 0 95
+piece 0 tube x 4 91 5 95
+piece 0 tube x 4 96 0 95
+piece 0 tube x 4 96 5 95
+piece 0 tube x 4 101 0 95
+piece 0 tube x 4 101 5 95
+piece 0 tube x 4 106 0 95
+piece 0 tube x 4 106 5 95
+piece 0 tube x 4 111 0 95
+piece 0 tube x 4 111 5 95
+piece 0 tube x 4 116 0 95
+piece 0 tube x 4 116 5 95
+piece 0 tube x 4 121 0 95
+piece 0 tube x 4 121 5 95
+piece 0 tube x 4 126 0 95
+piece 0 tube x 4 126 5 95
+piece 0 cap y 130 1 95
+tags ()
+end
